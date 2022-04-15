@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/meizu/static/css/main.d993b445.css",
-    "main.js": "/meizu/static/js/main.df342abe.js",
+    "main.js": "/meizu/static/js/main.c0a2c682.js",
     "index.html": "/meizu/index.html",
     "main.d993b445.css.map": "/meizu/static/css/main.d993b445.css.map",
-    "main.df342abe.js.map": "/meizu/static/js/main.df342abe.js.map"
+    "main.c0a2c682.js.map": "/meizu/static/js/main.c0a2c682.js.map"
   },
   "entrypoints": [
     "static/css/main.d993b445.css",
-    "static/js/main.df342abe.js"
+    "static/js/main.c0a2c682.js"
   ]
 }
