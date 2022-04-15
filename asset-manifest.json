@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/meizu/static/css/main.d993b445.css",
-    "main.js": "/meizu/static/js/main.968ae01f.js",
+    "main.js": "/meizu/static/js/main.ccdc7a27.js",
     "static/js/787.8502b5b6.chunk.js": "/meizu/static/js/787.8502b5b6.chunk.js",
     "static/media/logo.svg": "/meizu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/meizu/index.html",
     "main.d993b445.css.map": "/meizu/static/css/main.d993b445.css.map",
-    "main.968ae01f.js.map": "/meizu/static/js/main.968ae01f.js.map",
+    "main.ccdc7a27.js.map": "/meizu/static/js/main.ccdc7a27.js.map",
     "787.8502b5b6.chunk.js.map": "/meizu/static/js/787.8502b5b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d993b445.css",
-    "static/js/main.968ae01f.js"
+    "static/js/main.ccdc7a27.js"
   ]
 }
